@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header flex flex-col items-center pt-24">
-        <h1 className="text-6xl font-bold">Redux Counter</h1>
+        <h1 className="text-6xl font-bold text-center">Redux Counter</h1>
         <div className="flex flex-col items-center gap-3">
           <p className="text-4xl font-medium pt-10 underline">
             Count is: {count}
